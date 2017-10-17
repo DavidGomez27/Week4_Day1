@@ -1,0 +1,28 @@
+﻿body {
+}
+
+
+p{
+    color: red;
+    font-family: Calibri;
+    font-size: 12px;
+}
+
+.funkyFresh{
+    color: darkslategray;
+    font-family: 'Franklin Gothic';
+    font-size:22px;
+}
+
+#theThird{
+    color:aqua;
+
+}
+
+hi,h3,h6{
+    font-family:'Comic Sans MS';
+}
+
+ol li{
+    font-size:15px;
+}
